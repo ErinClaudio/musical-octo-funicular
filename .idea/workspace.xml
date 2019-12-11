@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3adc677-3f6e-4e48-98cd-fcb80f6a1531" name="Default Changelist" comment="" />
+    <list default="true" id="b3adc677-3f6e-4e48-98cd-fcb80f6a1531" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,10 +98,10 @@
     </state>
     <state x="272" y="214" key="#com.intellij.fileTypes.FileTypeChooser/-1366.52.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575918350777" />
     <state x="272" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1575929863664" />
-    <state x="8" y="13" key="IDE.errors.dialog" timestamp="1575911037379">
+    <state x="8" y="13" key="IDE.errors.dialog" timestamp="1576089926683">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="8" y="13" key="IDE.errors.dialog/-1366.52.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575911037379" />
+    <state x="8" y="13" key="IDE.errors.dialog/-1366.52.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1576089926683" />
     <state x="8" y="13" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1575904382036" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1576058712770">
       <screen x="0" y="0" width="1440" height="900" />
