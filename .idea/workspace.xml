@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3adc677-3f6e-4e48-98cd-fcb80f6a1531" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/projects/templates/home_page/testpage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/templates/projects/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/templates/projects/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +37,14 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/projects/templates/Home page" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projects/templates/Home page" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/projects/static/projects" />
     </key>
@@ -105,11 +114,12 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1576058712770" />
-    <state x="163" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1576059000311">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="163" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1576173422743">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="163" y="167" key="com.intellij.ide.util.TipDialog/-1366.52.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575668497434" />
+    <state x="163" y="167" key="com.intellij.ide.util.TipDialog/-1366.52.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1576159889246" />
     <state x="163" y="167" key="com.intellij.ide.util.TipDialog/-1366.75.1366.745/0.0.1440.900@0.0.1440.900" timestamp="1575909458748" />
-    <state x="163" y="167" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1576059000311" />
+    <state x="163" y="186" key="com.intellij.ide.util.TipDialog/-1366.75.1366.745/0.23.1440.877@0.23.1440.877" timestamp="1576173422743" />
+    <state x="163" y="167" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1576157822346" />
   </component>
 </project>

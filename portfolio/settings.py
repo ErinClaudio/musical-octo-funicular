@@ -25,7 +25,8 @@ SECRET_KEY = 'pk0*i%zqj85(ng7!fw9+gi35y$1ipb^cd*ka2uq@_modernmjo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [os.getenv('RENDER_EXTERNAL_HOSTNAME', default='')]
+ALLOWED_HOSTS = [os.getenv('RENDER_EXTERNAL_HOSTNAME', default=''),('127.0.0.1')]
+
 
 
 
@@ -38,7 +39,6 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    # my apps
     'projects',
 ]
 
@@ -52,7 +52,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'portfolio.urls'
+ROOT_URLCONF = 'portfolio.urls' #something here
 
 TEMPLATES = [
     {
